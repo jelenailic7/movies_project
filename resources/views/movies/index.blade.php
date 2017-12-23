@@ -1,0 +1,9 @@
+<html>
+<head>
+</head>
+<body>
+<h4>Movies</h4>
+<p>{{$movie->title}}<p>
+<p>{{$movie->storyline}}</p>
+</body>
+</html>
